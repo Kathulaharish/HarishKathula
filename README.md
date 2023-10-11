@@ -31,7 +31,7 @@ I'm Harish, a `Mern Stack Web Developer` from Hyderabad. I have completed MCA (M
     <tr>
       <td>02</td>
       <td><a href="https://github.com/Kathulaharish/ECOMMERCE-APP" target="_blank">E-Commerce</a></td>
-      <td>Raw Node.js (JavaScript Runtime)</td>
+      <td>MERN stack</td>
       <td><a href="" target="_blank">👉 Click Here</a></td>
     </tr>
   </tbody>
