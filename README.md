@@ -26,13 +26,13 @@ I'm Harish, a `Mern Stack Web Developer` from Hyderabad. I have completed MCA (M
       <td>01</td>
       <td><a href="https://github.com/Kathulaharish/Weather-App" target="_blank">Weather App</a></td>
       <td>React.Js</td>
-      <td><a href="https://kaleidoscopic-choux-38990b.netlify.app/" target="_blank">👉 Click Here</a></td>
+      <td><a href="#" target="_blank">👉 Click Here</a></td>
     </tr>
     <tr>
       <td>02</td>
       <td><a href="https://github.com/Kathulaharish/ECOMMERCE-APP" target="_blank">E-Commerce</a></td>
       <td>Raw Node.js (JavaScript Runtime)</td>
-      <td><a href="[#](https://github.com/Kathulaharish/ECOMMERCE-APP)" target="_blank">👉 Click Here</a></td>
+      <td><a href="" target="_blank">👉 Click Here</a></td>
     </tr>
   </tbody>
 </table>
