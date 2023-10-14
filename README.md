@@ -30,6 +30,12 @@ I'm Harish, a `Mern Stack Web Developer` from Hyderabad. I have completed MCA (M
     </tr>
     <tr>
       <td>02</td>
+      <td><a href="https://github.com/Kathulaharish/Weather-App" target="_blank">Todo App</a></td>
+      <td>React.Js</td>
+      <td><a href="#" target="_blank">👉 Click Here</a></td>
+    </tr>
+    <tr>
+      <td>03</td>
       <td><a href="https://github.com/Kathulaharish/ECOMMERCE-APP" target="_blank">E-Commerce</a></td>
       <td>MERN stack</td>
       <td><a href="#" target="_blank">👉 Click Here</a></td>
